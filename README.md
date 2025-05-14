@@ -90,5 +90,5 @@ Sugestões, melhorias e colaborações são muito bem-vindas!
 Se você trabalha com mineração ou tecnologia aplicada à indústria, vamos conversar.
 
 📬 Contato
-Abner Cardozo – LinkedIn
+Abner Cardozo – https://www.linkedin.com/in/abner-cardozo-176170281/
 
