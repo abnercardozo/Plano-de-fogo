@@ -80,3 +80,15 @@ pip install -r requirements.txt
 
 # Executar
 python main.py
+
+📄 Licença
+Este projeto está sob a licença MIT.
+Sinta-se à vontade para usar, contribuir ou sugerir melhorias!
+
+🤝 Contribuições
+Sugestões, melhorias e colaborações são muito bem-vindas!
+Se você trabalha com mineração ou tecnologia aplicada à indústria, vamos conversar.
+
+📬 Contato
+Abner Cardozo – LinkedIn
+
