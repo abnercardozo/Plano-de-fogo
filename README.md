@@ -43,7 +43,7 @@ O plano de fogo define os parâmetros para perfuração, carregamento e detonaç
 - **Vídeo 1:** Execução do código com entrada manual dos dados.  
 - **Vídeo 2:** Execução do mesmo código com os mesmos valores, agora com **exportação automática para Excel**.
 
-📌 Os vídeos podem ser acessados nos destaques ou na postagem no [LinkedIn](https://www.linkedin.com).
+📌 Os vídeos podem ser acessados nos destaques ou na postagem no [LinkedIn](https://www.linkedin.com/posts/abner-cardozo-176170281_python-mineraaexaeto-engenhariademinas-activity-7328228812045860864-RJa7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAESLk-oBPdcFHgCJuCOm12t_sH1pBnyqGuM).
 
 ---
 
